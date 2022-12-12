@@ -20,10 +20,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/index.js"
     ],
+    "/Banksy": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Banksy.js"
+    ],
     "/Katsushika": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/Katsushika.js"
+    ],
+    "/Salvador": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Salvador.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",

@@ -1,7 +1,9 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/Banksy": "pages/Banksy.js",
+  "/Katsushika": "pages/Katsushika.js",
   "/": "pages/index.js",
-  "/Katsushika": "pages/Katsushika.js"
+  "/Salvador": "pages/Salvador.js"
 }
